@@ -25,7 +25,7 @@ Ao clicar em Calcular, o sistema realiza o cálculo do IMC (Índice de Massa Cor
 
 Mostra o valor do IMC e a classificação de acordo com a tabela da OMS.
 
-🔹 Tecnologias utilizadas
+🔹 Ferramentas utilizadas
 
 ReactJS (com Vite)
 
